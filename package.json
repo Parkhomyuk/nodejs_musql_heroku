@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_musql_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "express":"*"
+  },
+  "engines":{
+    "node":"*",
+    "npm":"*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
